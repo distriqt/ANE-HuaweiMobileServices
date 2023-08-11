@@ -14,13 +14,13 @@
                 {
                     "countryOrAreaGroup":"DR2",
                     "addresses":{
-                        "ROOT":"https://store-dra.hispace.dbankcloud.com/hwmarket/api/"
+                        "ROOT":"https://store-dra.hispace.dbankcloud.cn/hwmarket/api/"
                     }
                 },
                 {
                     "countryOrAreaGroup":"DR3",
                     "addresses":{
-                        "ROOT":"https://store-dre.hispace.dbankcloud.com/hwmarket/api/"
+                        "ROOT":"https://store-dre.hispace.dbankcloud.cn/hwmarket/api/"
                     }
                 },
                 {

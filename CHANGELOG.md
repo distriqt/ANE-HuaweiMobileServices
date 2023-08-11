@@ -1,3 +1,16 @@
+###### 2023.08.11 [v3.0.0]
+
+```
+feat(sdk): update HMS sdk versions: 
+  - adsidentifier v3.4.62.300
+  - adslite v13.4.62.302
+  - base v6.11.0.301
+  - coreinstaller v6.11.0.301
+  - game v6.10.0.300
+
+feat(push): add new push dependency extension v6.11.0.300
+```
+
 ###### 2022.12.07 [v2.0.0]
 
 ```
